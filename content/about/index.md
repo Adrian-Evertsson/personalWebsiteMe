@@ -5,8 +5,8 @@ title = "About"
 
 Adrian Evertsson is an economist, consultant and backend developer in Go. 
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
-<!--- ![Console](profile/profile.jpeg) --->
+<!-- ![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true) -->
+![Console](profile/lvprofile.png) asd
 
 ## Installation
 
