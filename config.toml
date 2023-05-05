@@ -1,4 +1,4 @@
-baseURL = 'https://main.d2jxym4r03lb3i.amplifyapp.com/'
+baseURL = 'https://main.d2jxym4r03lb3i.amplifyapp.com'
 languageCode = 'en-us'
 title = 'AdrianEvertsson'
 theme = 'hugo-theme-console'
